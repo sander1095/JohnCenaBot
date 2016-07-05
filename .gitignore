@@ -11,16 +11,18 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 bld/
-[Bb]in/
 [Oo]bj/
 [Ll]og/
+
+[Bb]in/Debug/*
+![Bb]in/[Dd]ebug/opus.dll
+![Bb]in/[Dd]ebug/libsodium.dll
 
 # Visual Studio 2015 cache/options directory
 .vs/
