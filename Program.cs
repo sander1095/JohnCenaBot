@@ -131,8 +131,8 @@ public class Program
         sb.AppendLine();
 
         sb.AppendLine($"**!johncena**\t I'll play a *John Cena* related tune in the {VoiceChannelToJoin} channel!");
-        sb.AppendLine("**!help**\t I'll tell you this information again!");
-        sb.AppendLine("**!info**\t I'll give you information about me and my creator!");
+        sb.AppendLine("**!johncena help**\t I'll tell you this information again!");
+        sb.AppendLine("**!johncena info**\t I'll give you information about me and my creator!");
 
         sb.AppendLine();
         sb.AppendLine("__*More will be added in the future*__");
